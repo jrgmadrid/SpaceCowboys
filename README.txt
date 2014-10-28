@@ -1,11 +1,4 @@
-well, weapon behaviors don't really work, but I added a whole bunch of other fun stuff to compensate.
+This is a god-awful shooter I did in Unity. Not bad for a first attempt, but eugh. 
+How could I have ever submitted this.
 
-Now features...
-
-=Scoring!
-=Reloading!
-=Sounds!
-
-HOORAY!
-
--Jacob Madrid
+Controls self-explanatory. Just download as a zip, run the .exe. Boom.
